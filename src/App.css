@@ -4,6 +4,10 @@ body{
   justify-content: center;
   align-items: center;
   margin-top: 8%;
-  /* background-color:black;
-  color: aliceblue; */
+  background-color:goldenrod;
+  color: black;
+}
+.App{
+border: solid;
+padding: 20px;
 }
